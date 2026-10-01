@@ -1,0 +1,28 @@
+h1 p {
+	display: inline-block;
+}
+
+body {
+	background-color: rgb(179, 235, 248);
+	margin: 0;
+	font-family: Arial,sans-serif;
+}
+
+table {
+	width: 50%;
+	margin: 0 auto;
+}
+
+th, td {
+	align-content: center;
+	text-align: center;
+	justify-content: center;
+	border: 2px;
+	padding: 2%;
+}
+
+th{
+	color: rgb(49, 65, 208);
+	background-color: rgb(169, 225, 238);
+	border-radius: 6%;
+}
